@@ -2,7 +2,7 @@
 
 Contains a minimal working example for rolling gRPC in Python.
 
-For more details, read the accompanying [blog post](https://engineering.semantics3.com/6c4e25f0c506).
+For more details, read the accompanying [blog post](https://medium.com/engineering-semantics3/a-simplified-guide-to-grpc-in-python-6c4e25f0c506).
 
 ## Quickstart
 
